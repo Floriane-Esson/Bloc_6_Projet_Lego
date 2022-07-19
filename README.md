@@ -18,4 +18,4 @@ Method
 
 3 - Brick is linked to the set with a % of prediction
 
-4 - Enjoy ! # LEGO
+4 - Enjoy ! 
